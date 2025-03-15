@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sanjay Ishwar Dalawai</h1>
-<h3 align="center"> Passionate Data Enthusiast | Data Analyst | Aspiring Data Scientist |Certified Medical Coder | Mechanical Engineer |</h3>
+<h3 align="center">💻 Data Enthusiast | 📊 Data Analyst | 📈 Statistics & ML | 🚀 Aspiring Data Scientist</h3>
+🔹 About Me  
+
+Passionate about transforming raw data into actionable insights through Data Science, Analytics, and Statistics. I specialize in SQL, Python, Data Visualization, Statistical Analysis, and Machine Learning, leveraging data to drive informed decision-making.
+
+With a strong foundation in Descriptive & Inferential Statistics, Hypothesis Testing, Probability Distributions, and Predictive Modeling, I enjoy working with large datasets, uncovering patterns, and solving complex problems.
+
+🔹 Strong Communication & Teamwork: I excel in collaborating across teams, explaining complex data-driven insights in a clear and impactful way, and working in dynamic environments to achieve business goals.
+
+🚀 Open to: Data Analytics, Business Intelligence, and Data Science opportunities.
+📩 Contact: sanjaydalawai108@gmail.com
+
+🔗 Let's connect and explore the power of data together!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay00013&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay00013" /> </p>
 
@@ -10,9 +22,7 @@
 - 👨‍👨‍👧 How to reach me **sanjaydalawai108@gmail.com**  
 - ⚡ Fun fact **"I trust mean and median more than my gut feeling!" 📊😆**  
 
-### 💬 Blogs posts  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
