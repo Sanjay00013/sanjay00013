@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sanjay Ishwar Dalawai</h1>
-<h3 align="center">💻 Data Enthusiast | 📊 Data Analyst | 📈 Statistics & ML | 🚀 Aspiring Data Scientist</h3>
+<h3 align="center">💻 Data Enthusiast | 📊 Data Analyst | 📈 Statistics & Machine Learning | 🚀 Aspiring Data Scientist</h3>
 🔹 About Me  
 
 Passionate about transforming raw data into actionable insights through Data Science, Analytics, and Statistics. I specialize in SQL, Python, Data Visualization, Statistical Analysis, and Machine Learning, leveraging data to drive informed decision-making.
-
 With a strong foundation in Descriptive & Inferential Statistics, Hypothesis Testing, Probability Distributions, and Predictive Modeling, I enjoy working with large datasets, uncovering patterns, and solving complex problems.
 
 🔹 Strong Communication & Teamwork: I excel in collaborating across teams, explaining complex data-driven insights in a clear and impactful way, and working in dynamic environments to achieve business goals.
 
 🚀 Open to: Data Analytics, Business Intelligence, and Data Science opportunities.
+
+
 📩 Contact: sanjaydalawai108@gmail.com
 
 🔗 Let's connect and explore the power of data together!
